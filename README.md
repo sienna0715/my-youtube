@@ -6,11 +6,11 @@
 2023.01.25 ~ 2023.02.10
 
 ## ⚙️ 개발 환경
-React
-React Router
-react-icon
-Tailwind CSS
-Git
+- React
+- React Router
+- react-icon
+- Tailwind CSS
+- Git
 
 ## ✨ 주요 기능
 - 검색 헤더에서 해당 키워드로 페이지 이동
