@@ -1,13 +1,42 @@
-body {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+* {
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  width: 100vw;
+  height: 100vh;
+  @apply flex flex-col items-center;
+
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+a {text-decoration: none;}
+li {list-style: none;}
+
+#root {
+  @apply w-full max-w-screen-2xl;
+}
+
+:root {
+  --color-bg: white;
+  --color-text: black;
+  --color-input: white;
+  --color-button: #fafafa;
+  --color-border: #c7c7c7;
+}
+
+html.dark {
+  --color-bg: #242323;
+  --color-text: white;
+  --color-input: #151515;
+  --color-button: #333333;
+  --color-border: #505050;
 }

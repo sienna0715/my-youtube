@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "dej3VODtnrRL0kw-8ZdQMqljJQk",
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DOwr6AyQycPKjhgjRHnYM_9TMG0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bgnk0-0Y0Gk"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-19T03:26:19Z",
+                "channelId": "UCDJnRpq0DnQhrwi1ruuQa7g",
+                "title": "TAEYANG - 'VIBE (feat. Jimin of BTS)' LIVE CLIP",
+                "description": "https://taeyang.lnk.to/VIBE\n\nTAEYANG - 'VIBE (feat. Jimin of BTS)' LIVE CLIP\n\n\n말론 표현할 수 없지만\nGirl, You gotta know you got that vibe\n네 미소는 Fine Art\n내 영혼을 깨워\nYou got me feelin’ so right yeah \nIt’s a vibe \n\nYeah eh\nThis gon’ be the one and only theme song\n너에게만 고정된 내 시선\n내겐 너란 하나뿐인 Mission\n불가능은 없어 Baby lights camera action\n나란 음악 위에 너는 Topline \n너란 도시 위에 나는 Skyline \n넌 내 영화 속에 Highlight \n어두운 밤하늘 끝에 Twilight\nJust gets better\n너를 처음부터 정주행하고 싶은 매력 \nYou don’t know I want your love (know I want your love)\n이 밤이 끝나기 전에 Baby\n\nYou know we got that vibe baby (해 뜰 때까지)\nLook at me, look at me, 느낌이 나지\nLook at me, look at me, 느낌이 나지\nYou know we got that vibe baby (해 질 때까지)\nLook at you, look at you, 느낌이 나지 \n느낌이 와 It’s a vibe\n\nThis gon’ be the one and only Anthem \n감각적이야 Sixth sense 반전\n짜릿해 손만 잡아도 감전\n너를 만나기 전까지 내 세상은 암전\n나란 무대 위에 너는 Spotlight \n너란 한강 위에 나는 남산\n더 완벽할 순 없잖아\n어두운 밤하늘 끝에 Twilight\nI could feel it\n너란 공간에 갇혀버렸어 You’re my Matrix\nYou don’t know I want your love (know I want your love)\n이 밤이 끝나기 전에 Baby\n\nYou know we got that vibe baby (해 뜰 때까지)\nLook at me, look at me, 느낌이 나지\nLook at me, look at me, 느낌이 나지\nYou know we got that vibe baby (해 질 때까지)\nLook at you, look at you, 느낌이 나지\n느낌이 와 It’s a vibe\n\nLook at the stars\n밝게 빛나는 달\nAll through the night\n우릴 비춰주고 있잖아\n\n날 보는 너의 눈빛과 \n진동을 계속 느끼고 싶어\n(You gotta know you got that vibe)\n\nYou know we got that vibe baby (해 뜰 때까지)\nLook at me, look at me, 느낌이 나지 \nYou know we got that vibe baby (해 질 때까지)\nLook at you, look at you, 느낌이 나지\n느낌이 와 It’s a vibe\n\n\nMore about TAEYANG @\nhttps://www.instagram.com/__youngbae__/\nhttps://www.facebook.com/TAEYANG\nhttps://twitter.com/Realtaeyang\nhttps://www.tiktok.com/@taeyang\n\n#VIBE #바이브 #LIVECLIP #라이브클립\n#TAEYANG #태양 #Jimin #지민\n#THEBLACKLABEL #더블랙레이블",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bgnk0-0Y0Gk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bgnk0-0Y0Gk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bgnk0-0Y0Gk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bgnk0-0Y0Gk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bgnk0-0Y0Gk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TAEYANG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-19T03:26:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KjG7nTFAL_vuw-TyHMqc87eAmgk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u18be_kRmC0"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-01T15:54:35Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "RM '들꽃놀이 (with 조유진)' Official MV",
+                "description": "RM '들꽃놀이 (with 조유진)' Official MV\n\nCredits: \nDirector: Woogie Kim\n \nExecutive Producer: Katt Kim, Hyunwoo Nam\nHead Of Studio: Kyuwon Seo\nAccount Executive: Jisoo Chung\nCommunications Coordinator: Brady Yoon\n \nDirector's Assistant: Yurok Jang\nCreative & Production: Sungjoo Han\nProduction Coordinator: Kaly Ngo\nCreative Department: Eva Li\n \nDirector Of Photography: Jinhyuk Lee\n1st AC: Hong Kang\n2nd AC: Seunggyu Yoo\n2nd 2nd AC:Seungnggi Jang\n3rd AC: Gyeongui Hong\nDIT: Gunwoo Jung\nCamera B 1st: Jihwang Kim\nCamera B 2nd: Jeajoon Ryu\nCamera B 3rd: Minho Kim\nCamera EQ Driver: Bong Jin Kim, Won Bae Park\n \nGaffer: Seungnam Yoon (BESTBOY)\nLighting Team: Inguk Hong, Taeyoung Kim, Joonmin Yang, Joonhyung Lim, Minjoon Kim, Junghoon Joo, Jongseung Song\nGenerator: Inman Hwang\nCrane Operator: Daesik Seo\n \nProduction Art Design Director: Minkyu Jeon (Rekindle)\nArt Department: Yesol Kim, Jiwoo Park, Youngmi Kim, Sanghoon Lee, Yoonhwan Kim, Geon Heo\nFloral Design Director: Hwa Lee\nFloral Design Team: Chanyeon Ha, Maru Cho, Min Woo Son\nStructure Team: Song Kang Jeon\n \nVFX Director: Daeyoung Byun (Second Floor)\nVFX Supervisor: Dae Young Byun\n2D Composite Lead: Ayoung Lee\n2D Composite Artist: Youngjun Ko, Chea Young Kim\n3D/FX Lead: Hyeju Kang\n3D/FX Artist: Geo Young You\nProject Manager: Seo Yun Kim\n \nDI Team Lead: Jiyun Yeom (Lucid Color)\nDI Producer: Onew Kim\nDI Team: Somi Na, Suhyeon Bae, Mirim Lee, Jiwon Seo, Eunseo Choi, Hyeonsong Ko\nBeauty Compositing: Go Moonyoung (Post Emotion)\n \nLocation Manager: Sepil Jang, Jimin Son (Viewfinder)\n \nTraditional Fireworks Team Lead: Jaebok Cho\nTraditional Fireworks Team: Yunok Gong, Sunae Park, Yongnyeo Seo, Son Okhe, Seeun Lee, Giju Jeong, Geum Hoe Jeong, Aeja Seo, Myeongok Kim, Sunok Lee, Seonja Kim, Sunja Jeong, Hyunja Kim, Byeongsu Lee, Myeongwon Seo, Minwoo Park, Byeongwoo Seo, Byeong Joon Lee, Hong Won Seo\n \nFirework Team Lead: Hyungseok Yuk\nFirework Team: Jongho Hong, Giinam Kang, Gijin Song\nSFX Team: Yungyun Shin, Giseong Kim, Semin Oh\n \nJimmy Jib Operator: Yoongu Ji\nJimmy Jib Assist: Jinho Yoo, Euntaek Bae\n \nTechno Crane: Taehyun Choi, Jisoo Woo, Anjun Hwan, Beomki Lee, Jaeun Kim (Service Vision)\n \nSteadicam Operator: Sungwook Park\nSteadicam Operator Assist: Youngwook Song\n \nFPV Operator: Minjae Lee (Godfinger)\nFPV Assist: Joonhwan Cha, Youngjoon Park, Sungjae Hwang, Euntae Lee\n \nKey Grip: Hosik Moon\nGrip: Janghee Park,Sangkyo Kim, Hyungjoon Kim\n \nRunner Team Lead: Dongwang Huh\nRunner Team: Yonghyeon Yoo, Seulgi Hong, Jonghun, Jinu Jeong, Hakmin Kim, Juneun Park, Hyodong Lee\nCovid Officer: Juyong Park\nSecurity: Dongwon Gam, Hongbin Lim, Yeonggyun Jang, Seungsu Kim Chanjae Park, Seong Jeong Kang, Byeongho Kim, Seungheon Park\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.youtube.com/user/BANGTANTV\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com\n\n#RM #Indigo #들꽃놀이 #WildFlower",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u18be_kRmC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u18be_kRmC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u18be_kRmC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u18be_kRmC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u18be_kRmC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-01T15:54:35Z"
+            }
+        }
+    ]
+}
