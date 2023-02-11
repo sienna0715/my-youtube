@@ -39,7 +39,7 @@ export default function Header() {
       <div className="w-48 flex justify-end items-center mr-4 text-4xl">
         <FaUserCircle onClick={() => setUser(!user)} />
         {user ? (
-          <div className="absolute top-16 bg-color-input border border-color-border rounded-2xl text-xl p-4">
+          <div className="absolute top-16 bg-color-input border border-color-border rounded-2xl text-xl p-4" onClick={() => setUser(!user)}>
             <p >내 채널</p>
             <p className="mt-4" onClick={toggleDarkMode}>
               기기 테마
