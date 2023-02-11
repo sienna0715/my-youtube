@@ -11,7 +11,7 @@ export default function DarkModeProvider({children}) {
   }
 
   return (
-    <DarkModeContext.Provider value={{darkMode, toggleDarkMode}}>
+    <DarkModeContext.Provider value={{ toggleDarkMode }}>
       {children}
     </DarkModeContext.Provider>
   )
