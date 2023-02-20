@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/my-youtube/static/css/main.75f8f07c.css",
+    "main.js": "/my-youtube/static/js/main.11d394e2.js",
+    "static/js/649.a0069864.chunk.js": "/my-youtube/static/js/649.a0069864.chunk.js",
+    "index.html": "/my-youtube/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.75f8f07c.css",
+    "static/js/main.11d394e2.js"
+  ]
+}
