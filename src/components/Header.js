@@ -10,7 +10,7 @@ export default function Header() {
   const { keyword } = useParams();
   const [text, setText] = useState("");
   const [user, setUser] = useState(false);
-  const { darkMode, toggleDarkMode } = useDarkMode();
+  const { toggleDarkMode } = useDarkMode();
 
   const handleSubmit = (e) => {
     e.preventDefault();
