@@ -11,7 +11,7 @@ import VideoDetail from "./pages/VideoDetail";
 
 const router = createBrowserRouter([
   {
-    path: "/my-youtube",
+    path: "/",
     element: <App />,
     errorElement: <NotFound />,
     children: [
